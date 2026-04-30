@@ -13,7 +13,7 @@ function Footer() {
               <img
                 src="images/logo.png"
                 alt="logo"
-                className="md:w-12 lg:w-16 xl:w-14 object-contain"
+                className="w-12 lg:w-16 xl:w-14 object-contain"
               />
             </div>
             <p className="text-sm lg:text-base">
