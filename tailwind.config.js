@@ -31,7 +31,7 @@ export default {
       },
       fontSize: {
         h1: "clamp(1.3rem, 0.9706rem + 4.7059vw, 3.6rem)",
-        h2Typing: "clamp(0.7rem, 2.5vw, 1.2rem)",
+        h2Typing: "clamp(0.8rem, 2.5vw, 1.3rem)",
         h2: "clamp(1.4rem, 3vw, 2.5rem)",
         h3: "clamp(1.1rem, 2vw, 1.3rem)",
         h4: "clamp(1.2rem, 2vw, 1.2rem)",
